@@ -6,6 +6,8 @@ class Solution:
         #         nums.append(i)
         # here is another approach
 
+
+        # the optimized one
         placeholder=0
         for seeker in range(len(nums)):
             if nums[seeker]!= 0:
