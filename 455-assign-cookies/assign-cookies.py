@@ -1,7 +1,7 @@
 class Solution:
     def findContentChildren(self, g: List[int], s: List[int]) -> int:
 
-        
+        # two pointer on separate array
         g.sort()
         s.sort()
         i = 0
@@ -16,6 +16,12 @@ class Solution:
             else:
                 j += 1
         return count        
+
+
+
+
+
+
 
 
 
