@@ -6,4 +6,16 @@ class Solution:
         digit_list = list(map(int, str(ans)))
         return digit_list
 
+
+
+
+
+        
+
+
+
+
+
+
+
         
