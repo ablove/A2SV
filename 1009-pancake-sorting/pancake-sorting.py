@@ -11,3 +11,13 @@ class Solution:
                 result.append(x)
                 arr = arr[:x][::-1] + arr[x:]
         return result
+
+
+
+
+
+
+
+
+
+        
