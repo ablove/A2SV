@@ -10,17 +10,25 @@ class Solution:
         # brootforced solution  
 
         # optimized one
-        l, r = 0, len(numbers)-1
-        while l<r:
-            sum = numbers[l] + numbers[r]
+
+        left, right = 0, len(numbers) - 1
+
+        while left < right :
+            sum = numbers[left] + numbers[right]
             if sum == target:
-                return [l+1,r+1]
+                return [left + 1, right + 1]
+                break
             elif sum > target:
-                r -= 1
+                right -= 1
             else:
-                l += 1
+                left += 1
+
+
+
+        
          # Time: o(n)
          # Space : o(1)
+
 
 
 
