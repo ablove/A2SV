@@ -1,5 +1,6 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
+       
         n = len(height)
         l = 0
         r = n - 1
@@ -19,4 +20,36 @@ class Solution:
         return max_area
 
 # Time Complexity: O(n)
-# Space Complexity: O(1)
+# Space Complexity: O(1)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
