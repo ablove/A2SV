@@ -1,7 +1,7 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        if not nums:
-            return 0
+        # if not nums:
+        #     return 0
         
         # Initialize the slow pointer
         slow = 0
