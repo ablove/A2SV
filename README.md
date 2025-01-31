@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ablove/A2SV/tree/master/0009-palindrome-number) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/ablove/A2SV/tree/master/2491-smallest-even-multiple) |
