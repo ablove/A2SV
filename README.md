@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ablove/A2SV/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ablove/A2SV/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ablove/A2SV/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/ablove/A2SV/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
 ## Array
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ablove/A2SV/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/ablove/A2SV/tree/master/2491-smallest-even-multiple) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## String Matching
 |  |
