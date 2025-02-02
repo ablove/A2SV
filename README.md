@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2491-smallest-even-multiple](https://github.com/ablove/A2SV/tree/master/2491-smallest-even-multiple) |
+| [2645-pass-the-pillow](https://github.com/ablove/A2SV/tree/master/2645-pass-the-pillow) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ablove/A2SV/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2645-pass-the-pillow](https://github.com/ablove/A2SV/tree/master/2645-pass-the-pillow) |
 ## String Matching
 |  |
 | ------- |
