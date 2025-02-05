@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/ablove/A2SV/tree/master/0812-rotate-string) |
 | [1797-goal-parser-interpretation](https://github.com/ablove/A2SV/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
