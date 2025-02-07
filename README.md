@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ablove/A2SV/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2365-percentage-of-letter-in-string](https://github.com/ablove/A2SV/tree/master/2365-percentage-of-letter-in-string) |
 ## Array
 |  |
 | ------- |
