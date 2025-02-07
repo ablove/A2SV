@@ -12,6 +12,16 @@ class Solution:
                 ans[0].append(i)
             elif f==1:
                 ans[1].append(i)
-        
+                
         return [sorted(ans[0]), sorted(ans[1])]
         
+
+
+
+
+
+
+
+
+
+
