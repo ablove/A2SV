@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2365-percentage-of-letter-in-string](https://github.com/ablove/A2SV/tree/master/2365-percentage-of-letter-in-string) |
 ## Array
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ablove/A2SV/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2159-two-out-of-three](https://github.com/ablove/A2SV/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ablove/A2SV/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Matrix
 |  |
