@@ -12,7 +12,6 @@ class Solution:
             for j in range(cols):
                 arr =[(i-1,j),(i+1,j),(i,j-1),(i,j+1),(i-1,j-1),(i-1,j+1),(i+1,j-1),(i+1, j+1)]
 
-
                 count, summ = 1, img[i][j]
                 for val in arr:
 
@@ -23,15 +22,6 @@ class Solution:
                         summ += img[x][y]
                 ans[i][j] = (summ//count)
         return ans
-
-
-
-
-
-        
-
-
-
 
 
                 
