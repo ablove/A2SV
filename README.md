@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2365-percentage-of-letter-in-string](https://github.com/ablove/A2SV/tree/master/2365-percentage-of-letter-in-string) |
+| [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/ablove/A2SV/tree/master/2645-pass-the-pillow) |
+| [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 | [3651-transformed-array](https://github.com/ablove/A2SV/tree/master/3651-transformed-array) |
 ## String Matching
 |  |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
