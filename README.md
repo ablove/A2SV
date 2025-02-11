@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ablove/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/ablove/A2SV/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ablove/A2SV/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ablove/A2SV/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/ablove/A2SV/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
