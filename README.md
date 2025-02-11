@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ablove/A2SV/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ablove/A2SV/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0661-image-smoother](https://github.com/ablove/A2SV/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
