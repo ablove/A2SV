@@ -1,25 +1,6 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
 
-        str_nums = [str(i) for i in nums]
-        print(str_nums)
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
         nums=[str(i) for i in nums]
 
         for i in range(len(nums)):
