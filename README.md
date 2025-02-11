@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2159-two-out-of-three](https://github.com/ablove/A2SV/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/ablove/A2SV/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ablove/A2SV/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ablove/A2SV/tree/master/2350-find-closest-number-to-zero) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ablove/A2SV/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
