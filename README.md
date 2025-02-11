@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/ablove/A2SV/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ablove/A2SV/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ablove/A2SV/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ablove/A2SV/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/ablove/A2SV/tree/master/1642-water-bottles) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ablove/A2SV/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ablove/A2SV/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
