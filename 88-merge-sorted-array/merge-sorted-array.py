@@ -3,10 +3,7 @@ class Solution(object):
 
         merged = []
         left = right = 0
-
-        # nums1 = [x for x in nums1 if x != 0]
-        # nums2 = [x for x in nums2 if x != 0]
-
+        
         while left < m and right < n:
 
             if nums1[left] < nums2[right]:
