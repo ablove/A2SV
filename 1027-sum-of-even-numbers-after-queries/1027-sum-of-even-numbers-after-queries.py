@@ -21,18 +21,18 @@ class Solution:
     #  The optimized one
 
         result = []
-        even_sum = sum(x for x in nums if x % 2 == 0)  # Compute initial sum of even numbers
+        even_sum = sum(x for x in nums if x % 2 == 0)  
         
         for val, index in queries:
-            if nums[index] % 2 == 0:  # If the original number is even, remove it from even_sum
+            if nums[index] % 2 == 0: 
                 even_sum -= nums[index]
             
-            nums[index] += val  # Update the number
+            nums[index] += val 
             
-            if nums[index] % 2 == 0:  # If the updated number is even, add it to even_sum
+            if nums[index] % 2 == 0:
                 even_sum += nums[index]
             
-            result.append(even_sum)  # Store the result after each query
+            result.append(even_sum) 
         
         return result       
 
