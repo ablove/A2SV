@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ablove/A2SV/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ablove/A2SV/tree/master/2350-find-closest-number-to-zero) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ablove/A2SV/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 ## Greedy
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ablove/A2SV/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
 | ------- |
