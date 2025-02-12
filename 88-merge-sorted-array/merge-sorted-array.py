@@ -1,14 +1,32 @@
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
-        i = m - 1
-        j = n - 1
-        k = m + n - 1
-        
-        while j >= 0:
-            if i >= 0 and nums1[i] > nums2[j]:
-                nums1[k] = nums1[i]
-                i -= 1
+
+        merged = []
+        left = right = 0
+
+        # nums1 = [x for x in nums1 if x != 0]
+        # nums2 = [x for x in nums2 if x != 0]
+
+        while left < m and right < n:
+
+            if nums1[left] < nums2[right]:
+                merged.append(nums1[left])
+                left += 1
+
             else:
-                nums1[k] = nums2[j]
-                j -= 1
-            k -= 1
+                merged.append(nums2[right])
+                right += 1
+        print(merged)
+
+        while left == m and right < n:
+            merged.append(nums2[right])
+            right += 1
+
+        while left < m and right == n:
+            merged.append(nums1[left])
+            left += 1 
+
+        for i in range(n + m):
+            nums1[i] = merged[i]  
+
+
