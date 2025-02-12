@@ -10,10 +10,10 @@ class Solution:
 
         roman_str = ""
 
-        for value in sorted(roman_map.keys(), reverse=True):  # Sort keys in descending order
-            count = num // value  # How many times can we use this numeral?
-            roman_str += roman_map[value] * count  # Append the corresponding numeral `count` times
-            num %= value  # Reduce num by removing counted values
+        for value in sorted(roman_map.keys(), reverse=True): 
+            count = num // value  
+            roman_str += roman_map[value] * count 
+            num %= value 
         
         return roman_str
         
