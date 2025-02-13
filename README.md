@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ablove/A2SV/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ablove/A2SV/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/ablove/A2SV/tree/master/3651-transformed-array) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ablove/A2SV/tree/master/0643-maximum-average-subarray-i) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Math
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ablove/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ablove/A2SV/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/ablove/A2SV/tree/master/2159-two-out-of-three) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ablove/A2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
