@@ -12,7 +12,8 @@ class Solution:
                 left += 1
             
             ab.add(s[right])
-            max_length = max(max_length, len(ab))   
+            max_length = max(max_length, len(ab)) 
+              
         return max_length             
 
 
