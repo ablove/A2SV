@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ablove/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/ablove/A2SV/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/ablove/A2SV/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/ablove/A2SV/tree/master/0724-find-pivot-index) |
 | [0797-rabbits-in-forest](https://github.com/ablove/A2SV/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ablove/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ablove/A2SV/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/ablove/A2SV/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ablove/A2SV/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
