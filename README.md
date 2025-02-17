@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/ablove/A2SV/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2365-percentage-of-letter-in-string](https://github.com/ablove/A2SV/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3195-separate-black-and-white-balls](https://github.com/ablove/A2SV/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Array
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ablove/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ablove/A2SV/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/ablove/A2SV/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/ablove/A2SV/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/ablove/A2SV/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Matrix
 |  |
 | ------- |
