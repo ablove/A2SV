@@ -1,17 +1,26 @@
 class Solution:
     def pancakeSort(self, arr: List[int]) -> List[int]:
+
+        def flip(k):
+            arr[:k] = arr[:k][::-1] 
+            
         result = []
         n = len(arr)
-        for x in range(n, 1, -1):
-            max_index = arr.index(x)
-            if max_index != x - 1:
-                if max_index != 0:
-                    result.append(max_index + 1)
-                    arr = arr[:max_index + 1][::-1] + arr[max_index + 1:]
-                result.append(x)
-                arr = arr[:x][::-1] + arr[x:]
-        return result
 
+        for target in range(n, 0, -1):  
+            idx = arr.index(target) 
+            
+            if idx == target - 1: 
+                continue
+            
+            if idx != 0:  
+                flip(idx + 1)  
+                result.append(idx + 1)
+            
+            flip(target)  
+            result.append(target)
+        
+        return result
 
 
 
