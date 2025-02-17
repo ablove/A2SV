@@ -2,6 +2,10 @@ class NumArray:
 
     def __init__(self, nums: List[int]):
 
+        if not nums:
+            self.prefix_sum = []
+            return 
+
         acc = 0
         self.prefix_sum = [0] * len(nums)
 
@@ -10,6 +14,10 @@ class NumArray:
             self.prefix_sum[i] = acc
         
     def sumRange(self, left: int, right: int) -> int:
+
+        if not self.prefix_sum:
+            return 0
+            
         if left == 0:
             return self.prefix_sum[right]
         else:
