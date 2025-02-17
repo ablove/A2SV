@@ -2,9 +2,8 @@ class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
 
         n = len(s)
-        prefix = [0] * (n + 1)  # Extra space to avoid out-of-bounds
+        prefix = [0] * (n + 1)
 
-        # Step 1: Apply the shifts using difference array technique
         for shift in shifts:
             start, end, direction = shift
             if direction == 0:
