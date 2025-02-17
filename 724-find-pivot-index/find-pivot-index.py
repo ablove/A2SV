@@ -9,7 +9,6 @@ class Solution:
 
             acc += nums[i]
             prefix_sum[i] = acc 
-        # print(acc)
         
         if prefix_sum[-1] - prefix_sum[0] == 0:
             return 0
@@ -22,7 +21,5 @@ class Solution:
             if left == right:
                 return i
         else:
-            return -1    
-
-        # return 4    
-        
+            return -1
+            
