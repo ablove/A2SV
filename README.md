@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ablove/A2SV/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ablove/A2SV/tree/master/1791-richest-customer-wealth) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ablove/A2SV/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ablove/A2SV/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Design
 |  |
