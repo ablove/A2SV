@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ablove/A2SV/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ablove/A2SV/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1028-interval-list-intersections](https://github.com/ablove/A2SV/tree/master/1028-interval-list-intersections) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/ablove/A2SV/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ablove/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ablove/A2SV/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ablove/A2SV/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ablove/A2SV/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ablove/A2SV/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ablove/A2SV/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/ablove/A2SV/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
