@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ablove/A2SV/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
+| [0908-middle-of-the-linked-list](https://github.com/ablove/A2SV/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
@@ -430,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ablove/A2SV/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/ablove/A2SV/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
