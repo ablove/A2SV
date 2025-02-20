@@ -15,9 +15,10 @@ class Solution:
         while curr.next:
             prev = prev.next
             curr = curr.next
+
         prev.next = prev.next.next
 
-        return dummy.next    
+        return dummy.next
 
         
         
