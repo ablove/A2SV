@@ -8,12 +8,26 @@ class Solution:
 
         prev = None
         curr = head
-        
         while curr:
-            next_node = curr.next  
-            curr.next = prev  
-            prev = curr 
-            curr = next_node  
-        
+
+            next_node = curr.next
+            curr.next = prev
+            prev = curr
+            curr = next_node
+            
         return prev
+
+
+
+
+
+        # dummy = ListNode(-1)
+        # curr = head
         
+        # while curr:
+        #     next_node = curr.next  
+        #     curr.next = dummy.next 
+        #     dummy.next = curr  
+        #     curr = next_node 
+        
+        # return dummy.next  
