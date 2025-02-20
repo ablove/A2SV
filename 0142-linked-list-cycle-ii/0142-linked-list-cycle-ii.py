@@ -21,5 +21,5 @@ class Solution:
                     fast = fast.next
                 return fast
 
-        # return None             
+        return None             
         
