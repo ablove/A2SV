@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
+| [0978-valid-mountain-array](https://github.com/ablove/A2SV/tree/master/0978-valid-mountain-array) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ablove/A2SV/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
