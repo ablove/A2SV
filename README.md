@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ablove/A2SV/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ablove/A2SV/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/ablove/A2SV/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/ablove/A2SV/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ablove/A2SV/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ablove/A2SV/tree/master/1791-richest-customer-wealth) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ablove/A2SV/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
