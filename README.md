@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ablove/A2SV/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
