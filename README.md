@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ablove/A2SV/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/ablove/A2SV/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ablove/A2SV/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ablove/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ablove/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ablove/A2SV/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ablove/A2SV/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
