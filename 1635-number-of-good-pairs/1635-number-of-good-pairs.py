@@ -5,7 +5,7 @@ class Solution:
         ans = 0
         for val in count.values():
             ans += (val * (val-1)) // 2
-        return ans    
+        return ans   
 
 
 
