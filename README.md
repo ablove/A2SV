@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/ablove/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
+| [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ablove/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ablove/A2SV/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ablove/A2SV/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
