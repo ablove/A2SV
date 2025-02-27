@@ -5,8 +5,3 @@ class Solution:
         list1.reverse()
         return str(" ".join(list1))
 
-
-
-
-
-        
