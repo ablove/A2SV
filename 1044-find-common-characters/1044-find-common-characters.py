@@ -6,6 +6,7 @@ class Solution:
         for word in words[1:]:
             word_count = Counter(word)
             common_count &= word_count 
+            print(common_count)
         
         result = []
         for char, count in common_count.items():
