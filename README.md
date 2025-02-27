@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ablove/A2SV/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ablove/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ablove/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ablove/A2SV/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ablove/A2SV/tree/master/0217-contains-duplicate) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/ablove/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ablove/A2SV/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ablove/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ablove/A2SV/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/ablove/A2SV/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ablove/A2SV/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ablove/A2SV/tree/master/0237-delete-node-in-a-linked-list) |
@@ -494,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
