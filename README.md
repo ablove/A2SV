@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/ablove/A2SV/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ablove/A2SV/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2737-row-with-maximum-ones](https://github.com/ablove/A2SV/tree/master/2737-row-with-maximum-ones) |
 | [3151-minimum-processing-time](https://github.com/ablove/A2SV/tree/master/3151-minimum-processing-time) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/ablove/A2SV/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ablove/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2737-row-with-maximum-ones](https://github.com/ablove/A2SV/tree/master/2737-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
