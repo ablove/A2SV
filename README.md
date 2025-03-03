@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ablove/A2SV/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ablove/A2SV/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ablove/A2SV/tree/master/0768-partition-labels) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ablove/A2SV/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 ## Linked List
 |  |
 | ------- |
