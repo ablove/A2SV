@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/ablove/A2SV/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
 | [3195-separate-black-and-white-balls](https://github.com/ablove/A2SV/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Array
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/ablove/A2SV/tree/master/1095-two-city-scheduling) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ablove/A2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/ablove/A2SV/tree/master/3151-minimum-processing-time) |
 | [3195-separate-black-and-white-balls](https://github.com/ablove/A2SV/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/ablove/A2SV/tree/master/2491-smallest-even-multiple) |
 | [2645-pass-the-pillow](https://github.com/ablove/A2SV/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ablove/A2SV/tree/master/2812-find-the-maximum-achievable-number) |
+| [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Number Theory
 |  |
