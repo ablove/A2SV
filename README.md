@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/ablove/A2SV/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2365-percentage-of-letter-in-string](https://github.com/ablove/A2SV/tree/master/2365-percentage-of-letter-in-string) |
 | [2465-shifting-letters-ii](https://github.com/ablove/A2SV/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/ablove/A2SV/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ablove/A2SV/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ablove/A2SV/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/ablove/A2SV/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2470-removing-stars-from-a-string](https://github.com/ablove/A2SV/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
 | [2645-pass-the-pillow](https://github.com/ablove/A2SV/tree/master/2645-pass-the-pillow) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/ablove/A2SV/tree/master/0071-simplify-path) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2470-removing-stars-from-a-string](https://github.com/ablove/A2SV/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
