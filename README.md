@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 ## Randomized
 |  |
@@ -531,9 +532,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
