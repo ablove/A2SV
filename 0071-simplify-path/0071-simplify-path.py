@@ -3,7 +3,7 @@ class Solution:
         stack = []
         paths = path.split('/')
         print(paths)
-        
+
         for x in paths:
             if x == "." or x == '':
                 continue
@@ -12,7 +12,7 @@ class Solution:
                     stack.pop()
             else:
                 stack.append(x)
-                 
+                     
         return "/" + ("/").join(stack)           
           
 
