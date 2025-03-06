@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ablove/A2SV/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ablove/A2SV/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Randomized
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ablove/A2SV/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ablove/A2SV/tree/master/0071-simplify-path) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/ablove/A2SV/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ablove/A2SV/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ablove/A2SV/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -539,11 +543,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
