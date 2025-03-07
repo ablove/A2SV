@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0829-subdomain-visit-count](https://github.com/ablove/A2SV/tree/master/0829-subdomain-visit-count) |
 | [0858-masking-personal-information](https://github.com/ablove/A2SV/tree/master/0858-masking-personal-information) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/ablove/A2SV/tree/master/0886-score-of-parentheses) |
 | [1044-find-common-characters](https://github.com/ablove/A2SV/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ablove/A2SV/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ablove/A2SV/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/ablove/A2SV/tree/master/0886-score-of-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ablove/A2SV/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/ablove/A2SV/tree/master/1720-crawler-log-folder) |
