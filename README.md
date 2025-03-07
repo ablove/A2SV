@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ablove/A2SV/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ablove/A2SV/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/ablove/A2SV/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ablove/A2SV/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ablove/A2SV/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
