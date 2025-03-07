@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/ablove/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ablove/A2SV/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ablove/A2SV/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
