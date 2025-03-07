@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ablove/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ablove/A2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/ablove/A2SV/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ablove/A2SV/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/ablove/A2SV/tree/master/0886-score-of-parentheses) |
@@ -585,6 +588,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ablove/A2SV/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
