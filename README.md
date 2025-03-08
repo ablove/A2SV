@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
 | [0978-valid-mountain-array](https://github.com/ablove/A2SV/tree/master/0978-valid-mountain-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ablove/A2SV/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ablove/A2SV/tree/master/1018-largest-perimeter-triangle) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ablove/A2SV/tree/master/0628-maximum-product-of-three-numbers) |
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ablove/A2SV/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ablove/A2SV/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/ablove/A2SV/tree/master/1642-water-bottles) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
