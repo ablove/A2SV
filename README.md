@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ablove/A2SV/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ablove/A2SV/tree/master/1791-richest-customer-wealth) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ablove/A2SV/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ablove/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/ablove/A2SV/tree/master/2048-build-array-from-permutation) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ablove/A2SV/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
 | ------- |
