@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
 | [1009-pancake-sorting](https://github.com/ablove/A2SV/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/ablove/A2SV/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/ablove/A2SV/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/ablove/A2SV/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ablove/A2SV/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ablove/A2SV/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/ablove/A2SV/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/ablove/A2SV/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/ablove/A2SV/tree/master/1033-broken-calculator) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ablove/A2SV/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/ablove/A2SV/tree/master/1635-number-of-good-pairs) |
