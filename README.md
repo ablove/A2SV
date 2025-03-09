@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/ablove/A2SV/tree/master/1028-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ablove/A2SV/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ablove/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/ablove/A2SV/tree/master/2698-find-the-array-concatenation-value) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/ablove/A2SV/tree/master/1720-crawler-log-folder) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ablove/A2SV/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ablove/A2SV/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ablove/A2SV/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ablove/A2SV/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
