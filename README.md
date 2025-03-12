@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ablove/A2SV/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/ablove/A2SV/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/ablove/A2SV/tree/master/1635-number-of-good-pairs) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ablove/A2SV/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/ablove/A2SV/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Math
 |  |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Bucket Sort
 |  |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ablove/A2SV/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
@@ -620,4 +624,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ablove/A2SV/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
