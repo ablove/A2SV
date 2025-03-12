@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/ablove/A2SV/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ablove/A2SV/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ablove/A2SV/tree/master/0342-power-of-four) |
