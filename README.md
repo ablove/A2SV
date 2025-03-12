@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/ablove/A2SV/tree/master/0777-toeplitz-matrix) |
 | [0797-rabbits-in-forest](https://github.com/ablove/A2SV/tree/master/0797-rabbits-in-forest) |
 | [0829-subdomain-visit-count](https://github.com/ablove/A2SV/tree/master/0829-subdomain-visit-count) |
+| [0859-design-circular-deque](https://github.com/ablove/A2SV/tree/master/0859-design-circular-deque) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/ablove/A2SV/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/ablove/A2SV/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ablove/A2SV/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/ablove/A2SV/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ablove/A2SV/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/ablove/A2SV/tree/master/0838-design-linked-list) |
+| [0859-design-circular-deque](https://github.com/ablove/A2SV/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ablove/A2SV/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/ablove/A2SV/tree/master/1582-design-browser-history) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ablove/A2SV/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ablove/A2SV/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/ablove/A2SV/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/ablove/A2SV/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/ablove/A2SV/tree/master/0987-reveal-cards-in-increasing-order) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/ablove/A2SV/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
