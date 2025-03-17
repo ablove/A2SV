@@ -11,10 +11,9 @@ class Solution:
         def dfs(node):
             if not node:
                 return
-            dfs(node.left)  # Traverse left subtree
-            dfs(node.right)  # Traverse right subtree
-            result.append(node.val)  # Visit node
+            dfs(node.left)  
+            dfs(node.right) 
+            result.append(node.val)  
         
         dfs(root)
         return result
-        
