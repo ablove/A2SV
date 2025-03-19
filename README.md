@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/ablove/A2SV/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1651-shuffle-string](https://github.com/ablove/A2SV/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ablove/A2SV/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/ablove/A2SV/tree/master/1720-crawler-log-folder) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ablove/A2SV/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/ablove/A2SV/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1449-print-words-vertically](https://github.com/ablove/A2SV/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/ablove/A2SV/tree/master/1642-water-bottles) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ablove/A2SV/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ablove/A2SV/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/ablove/A2SV/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ablove/A2SV/tree/master/2058-concatenation-of-array) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ablove/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ablove/A2SV/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/ablove/A2SV/tree/master/0394-decode-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ablove/A2SV/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Data Stream
 |  |
 | ------- |
