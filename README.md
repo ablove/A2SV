@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ablove/A2SV/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/ablove/A2SV/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ablove/A2SV/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ablove/A2SV/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ablove/A2SV/tree/master/0342-power-of-four) |
@@ -706,5 +708,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/ablove/A2SV/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/ablove/A2SV/tree/master/0078-subsets) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/ablove/A2SV/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 <!---LeetCode Topics End-->
