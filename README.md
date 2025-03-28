@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ablove/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2639-separate-the-digits-in-an-array](https://github.com/ablove/A2SV/tree/master/2639-separate-the-digits-in-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ablove/A2SV/tree/master/2665-minimum-time-to-repair-cars) |
 | [2698-find-the-array-concatenation-value](https://github.com/ablove/A2SV/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ablove/A2SV/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2737-row-with-maximum-ones](https://github.com/ablove/A2SV/tree/master/2737-row-with-maximum-ones) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/ablove/A2SV/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ablove/A2SV/tree/master/1046-max-consecutive-ones-iii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ablove/A2SV/tree/master/2665-minimum-time-to-repair-cars) |
 ## Sorting
 |  |
 | ------- |
