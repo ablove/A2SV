@@ -3,6 +3,12 @@ class Solution:
         n=len(nums)
         ans = ((n*(n+1))//2) - sum(nums)
         return ans
+        
+
+
+
+
+
     
     
     
