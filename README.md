@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ablove/A2SV/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/ablove/A2SV/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/ablove/A2SV/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ablove/A2SV/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ablove/A2SV/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/ablove/A2SV/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ablove/A2SV/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
