@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ablove/A2SV/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ablove/A2SV/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ablove/A2SV/tree/master/0344-reverse-string) |
+| [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/ablove/A2SV/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ablove/A2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/ablove/A2SV/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ablove/A2SV/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/ablove/A2SV/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ablove/A2SV/tree/master/0907-koko-eating-bananas) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ablove/A2SV/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/ablove/A2SV/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/ablove/A2SV/tree/master/0917-boats-to-save-people) |
