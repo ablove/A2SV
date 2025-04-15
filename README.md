@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/ablove/A2SV/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ablove/A2SV/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ablove/A2SV/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/ablove/A2SV/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/ablove/A2SV/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ablove/A2SV/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ablove/A2SV/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ablove/A2SV/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/ablove/A2SV/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/ablove/A2SV/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1005-univalued-binary-tree](https://github.com/ablove/A2SV/tree/master/1005-univalued-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/ablove/A2SV/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
