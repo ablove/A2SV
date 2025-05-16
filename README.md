@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ablove/A2SV/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/ablove/A2SV/tree/master/1028-interval-list-intersections) |
 | [1894-merge-strings-alternately](https://github.com/ablove/A2SV/tree/master/1894-merge-strings-alternately) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ablove/A2SV/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/ablove/A2SV/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/ablove/A2SV/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ablove/A2SV/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ablove/A2SV/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/ablove/A2SV/tree/master/1791-richest-customer-wealth) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ablove/A2SV/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/ablove/A2SV/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ablove/A2SV/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/ablove/A2SV/tree/master/2048-build-array-from-permutation) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/ablove/A2SV/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ablove/A2SV/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ablove/A2SV/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ablove/A2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/ablove/A2SV/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ablove/A2SV/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ablove/A2SV/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ablove/A2SV/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ablove/A2SV/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/ablove/A2SV/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ablove/A2SV/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
 | [3151-minimum-processing-time](https://github.com/ablove/A2SV/tree/master/3151-minimum-processing-time) |
