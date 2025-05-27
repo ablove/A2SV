@@ -9,6 +9,3 @@ class Solution:
             ans2 += i
         return True if ans1 == ans2 else False    
 
-
-
-        
