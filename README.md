@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ablove/A2SV/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ablove/A2SV/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3055-maximum-odd-binary-number](https://github.com/ablove/A2SV/tree/master/3055-maximum-odd-binary-number) |
+| [3194-find-words-containing-character](https://github.com/ablove/A2SV/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/ablove/A2SV/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/ablove/A2SV/tree/master/3447-clear-digits) |
 ## Array
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2737-row-with-maximum-ones](https://github.com/ablove/A2SV/tree/master/2737-row-with-maximum-ones) |
 | [3151-minimum-processing-time](https://github.com/ablove/A2SV/tree/master/3151-minimum-processing-time) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3194-find-words-containing-character](https://github.com/ablove/A2SV/tree/master/3194-find-words-containing-character) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ablove/A2SV/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3651-transformed-array](https://github.com/ablove/A2SV/tree/master/3651-transformed-array) |
 ## Binary Search
