@@ -15,6 +15,7 @@ class Solution:
                 if nums[i] < target and nums[i+1] >= target:
                     return i+1
                  
+                 
 
 
 
