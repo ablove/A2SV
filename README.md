@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ablove/A2SV/tree/master/0768-partition-labels) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ablove/A2SV/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0645-set-mismatch](https://github.com/ablove/A2SV/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [1610-xor-operation-in-an-array](https://github.com/ablove/A2SV/tree/master/1610-xor-operation-in-an-array) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0943-sum-of-subarray-minimums](https://github.com/ablove/A2SV/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
@@ -814,4 +817,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
