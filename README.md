@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ablove/A2SV/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/ablove/A2SV/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ablove/A2SV/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/ablove/A2SV/tree/master/0500-keyboard-row) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/ablove/A2SV/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ablove/A2SV/tree/master/0768-partition-labels) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/ablove/A2SV/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ablove/A2SV/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ablove/A2SV/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0874-backspace-string-compare](https://github.com/ablove/A2SV/tree/master/0874-backspace-string-compare) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/ablove/A2SV/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/ablove/A2SV/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/ablove/A2SV/tree/master/0943-sum-of-subarray-minimums) |
