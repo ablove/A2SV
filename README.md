@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/ablove/A2SV/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ablove/A2SV/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/ablove/A2SV/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/ablove/A2SV/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/ablove/A2SV/tree/master/0633-sum-of-square-numbers) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ablove/A2SV/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ablove/A2SV/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/ablove/A2SV/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ablove/A2SV/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ablove/A2SV/tree/master/0628-maximum-product-of-three-numbers) |
