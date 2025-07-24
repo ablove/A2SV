@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ablove/A2SV/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ablove/A2SV/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ablove/A2SV/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ablove/A2SV/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ablove/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ablove/A2SV/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ablove/A2SV/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ablove/A2SV/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/ablove/A2SV/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ablove/A2SV/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/ablove/A2SV/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ablove/A2SV/tree/master/0101-symmetric-tree) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ablove/A2SV/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/ablove/A2SV/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ablove/A2SV/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/ablove/A2SV/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 ## Interactive
 |  |
