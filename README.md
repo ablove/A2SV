@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ablove/A2SV/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ablove/A2SV/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ablove/A2SV/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/ablove/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ablove/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ablove/A2SV/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/ablove/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0943-sum-of-subarray-minimums](https://github.com/ablove/A2SV/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
