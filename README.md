@@ -839,4 +839,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ablove/A2SV/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
