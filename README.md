@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/ablove/A2SV/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ablove/A2SV/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/ablove/A2SV/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ablove/A2SV/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ablove/A2SV/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ablove/A2SV/tree/master/0171-excel-sheet-column-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ablove/A2SV/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ablove/A2SV/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ablove/A2SV/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ablove/A2SV/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ablove/A2SV/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ablove/A2SV/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ablove/A2SV/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ablove/A2SV/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ablove/A2SV/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ablove/A2SV/tree/master/0146-lru-cache) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ablove/A2SV/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Line Sweep
 |  |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ablove/A2SV/tree/master/0119-pascals-triangle-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/ablove/A2SV/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0943-sum-of-subarray-minimums](https://github.com/ablove/A2SV/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -848,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ablove/A2SV/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 ## Database
 |  |
