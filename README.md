@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ablove/A2SV/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ablove/A2SV/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/ablove/A2SV/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/ablove/A2SV/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ablove/A2SV/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/ablove/A2SV/tree/master/0299-bulls-and-cows) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ablove/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ablove/A2SV/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ablove/A2SV/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0829-subdomain-visit-count](https://github.com/ablove/A2SV/tree/master/0829-subdomain-visit-count) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ablove/A2SV/tree/master/1112-find-words-that-can-be-formed-by-characters) |
