@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/ablove/A2SV/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ablove/A2SV/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ablove/A2SV/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ablove/A2SV/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ablove/A2SV/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ablove/A2SV/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ablove/A2SV/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ablove/A2SV/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ablove/A2SV/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ablove/A2SV/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/ablove/A2SV/tree/master/0475-heaters) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ablove/A2SV/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/ablove/A2SV/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/ablove/A2SV/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ablove/A2SV/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0680-valid-palindrome-ii](https://github.com/ablove/A2SV/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/ablove/A2SV/tree/master/0768-partition-labels) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/ablove/A2SV/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/ablove/A2SV/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/ablove/A2SV/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/ablove/A2SV/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/ablove/A2SV/tree/master/0943-sum-of-subarray-minimums) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ablove/A2SV/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
