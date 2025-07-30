@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/ablove/A2SV/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/ablove/A2SV/tree/master/0722-remove-comments) |
 | [0724-find-pivot-index](https://github.com/ablove/A2SV/tree/master/0724-find-pivot-index) |
+| [0772-construct-quad-tree](https://github.com/ablove/A2SV/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/ablove/A2SV/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/ablove/A2SV/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/ablove/A2SV/tree/master/0797-rabbits-in-forest) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ablove/A2SV/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ablove/A2SV/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ablove/A2SV/tree/master/0240-search-a-2d-matrix-ii) |
+| [0772-construct-quad-tree](https://github.com/ablove/A2SV/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/ablove/A2SV/tree/master/0948-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/ablove/A2SV/tree/master/1873-longest-nice-substring) |
 ## Counting
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/ablove/A2SV/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/ablove/A2SV/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/ablove/A2SV/tree/master/0661-image-smoother) |
+| [0772-construct-quad-tree](https://github.com/ablove/A2SV/tree/master/0772-construct-quad-tree) |
 | [0777-toeplitz-matrix](https://github.com/ablove/A2SV/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/ablove/A2SV/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/ablove/A2SV/tree/master/0898-transpose-matrix) |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ablove/A2SV/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ablove/A2SV/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0772-construct-quad-tree](https://github.com/ablove/A2SV/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ablove/A2SV/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ablove/A2SV/tree/master/1005-univalued-binary-tree) |
